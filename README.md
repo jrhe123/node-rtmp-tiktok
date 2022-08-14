@@ -6,7 +6,6 @@
 
 **Note: Here is demo for version 2.0**
 
-<img src="demo/1.png" width="260" title="hover text">
 
 ## Demo v1
 
